@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// Sort Challenge Main Class
 public class SortChallengeMain {
 	
 	public static int menu;
